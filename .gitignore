@@ -64,3 +64,5 @@ crashlytics-build.properties
 */Library/
 */Temp/
 */Build/
+*.meta
+*/ImportAssets/
