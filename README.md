@@ -54,4 +54,5 @@ sail artisan migrate
 
 # release version
 [mobile-1.0.0](https://github.com/Ford-Narongrit/CS-EasyExercies-mobile/releases/tag/1.0.0)
+
 [GamePC-1.0.0](https://github.com/Sitthiphong-14/CS-EasyExcerice-Game/releases/tag/1.0.0)
